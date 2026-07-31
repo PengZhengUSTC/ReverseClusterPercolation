@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE and OS metadata
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local temporary files
+tmp/
+
+# Local build products and benchmark intermediates
+*.exe
+BPHDCode/bphd_*
