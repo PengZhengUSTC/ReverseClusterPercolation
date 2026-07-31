@@ -1,0 +1,8 @@
+首先运行以下命令生成tabpd.exe文件
+c++ -O3 -o tabpd.exe TAbyFVSbpdV03.cpp
+
+然后再调用bphd.py执行bphd拆解
+
+
+注意，下面 TAbyFVSbpdV03.cpp 文件可设置拆解阈值
+int Csize = 
