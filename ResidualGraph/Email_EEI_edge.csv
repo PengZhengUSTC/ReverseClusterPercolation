@@ -1,0 +1,17 @@
+source,target,type
+96,7,undirected
+3,16,undirected
+6,7,undirected
+6,8,undirected
+6,83,undirected
+6,85,undirected
+7,16,undirected
+7,28,undirected
+7,88,undirected
+7,93,undirected
+1,2,undirected
+2,18,undirected
+4,68,undirected
+4,70,undirected
+401,802,undirected
+880,668,undirected

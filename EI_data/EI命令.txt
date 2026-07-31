@@ -1,0 +1,5 @@
+./exploimmun 1000 Email_L.txt
+
+先运行SaveEIData.py在笔记本的EI_data文件夹生成L和G文件
+然后将L文件传给虚拟机，运行EI算法
+最后将EI算法生成的sigma1和sigma2文件复制到笔记本的EI_data文件夹
