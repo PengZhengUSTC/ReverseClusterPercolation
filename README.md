@@ -15,7 +15,7 @@ The main algorithm is **Reverse Cluster Percolation (RCP)**, a structure-preserv
 | `ResidualGraph/` | Residual networks after dismantling, saved as node and edge CSV files. |
 | `EB.py`, `BG.py`, `ECI.py`, `EEI.py`, `EBPD.py`, `EGNDR.py` | Benchmark method scripts. |
 | `SaveEIData.py` | Preprocessing script for the EEI benchmark. It converts an original network into the corresponding line graph and saves the files required by explosive immunization. |
-| `Edge_Collective_Influence/`, `EI/`, `BPHDCode/`, `GNDR/` | External or adapted benchmark implementations used by the comparison methods. |
+| `ExperimentCode.py`, `Edge_Collective_Influence/`, `EI/`, `BPHDCode/`, `GNDR/` | External or adapted benchmark implementations used by the comparison methods. |
 
 ## Data and Generated Networks
 
